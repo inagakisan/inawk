@@ -1,0 +1,6 @@
+gitのお勉強
+---------------------------
+gitコマンド
+◆git remote add ［名前］ ［URL］
+◆git add ［ファイル名］
+◆git commit -m [コメント]
